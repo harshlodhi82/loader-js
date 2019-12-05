@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Modak', cursive;
+}
+
+.same{
+    font-size: 500px;
+    color: rgb(252, 133, 133);
+    position: absolute;
+    width:100vw;
+    text-align: center;
+    line-height: 100vh;
+    visibility: hidden;  
+}
+
+.eyes{
+    color: rgb(78, 78, 78);
+    font-size: 200px;
+    line-height: 100vh;
+    letter-spacing: 50px;
+}
+
+.box1{
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    top: -250px;
+    right: 50%;
+    transform: translateX(58%);
+}
+
+.cont{
+    width: 100vw;
+    text-align: center;
+    font-size: 500px;
+    position: absolute;
+}
+
+.cont span{
+    color: rgba(252, 133, 133, 0);
+    text-shadow: 1px 1px 20px rgba(252, 133, 133, 0.877);
+    line-height: 100vh;
+}
+
+.space{
+    letter-spacing: 250px;
+}
